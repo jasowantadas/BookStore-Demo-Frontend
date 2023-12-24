@@ -1,0 +1,15 @@
+.element {
+  height: 150px;
+  width: 200px;
+  padding: 10px;
+  border-radius: 20px;
+  background-color: aqua;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+  position: relative;
+}
+.buttons {
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
